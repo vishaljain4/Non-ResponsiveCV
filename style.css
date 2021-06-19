@@ -1,0 +1,25 @@
+hr{
+  border: none;
+  border-top: 5px dotted  grey;
+  width: 6%;
+}
+td,ol,p,label{
+  color: #5C5F58;
+}
+
+h1,h3,a{
+  color: #591C0B;
+}
+
+body{
+  background-color: #DCE1E3;
+  align-items: center;
+}
+
+#intro{
+  background-color: #47597E;
+}
+
+#change{
+  color: "white";
+}
